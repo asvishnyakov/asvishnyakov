@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Aleksandr Vishniakov's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=asvishnyakov&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **asvishnyakov/asvishnyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
