@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-[![Aleksandr Vishniakov's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=asvishnyakov&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Aleksandr Vishniakov's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=asvishnyakov&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Aleksandr Vishniakov's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=asvishnyakov&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Aleksandr Vishniakov's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=asvishnyakov&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=asvishnyakov&layout=compact&card_width=467&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=asvishnyakov&layout=compact&card_width=467&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!--
