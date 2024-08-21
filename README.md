@@ -1,5 +1,8 @@
 ## Hi! I'm Alex 👋🏻
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-vishniakov-209001171)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/asvishnyakov/)
+
 **I'm a full-stack software developer - C# (.NET) / Typescript (Angular/Vue.js)**
 
 - 🔭 I’m currently working on AI RND projects at [VirtoCommerce (VirtoWay)](https://virtocommerce.com/)
